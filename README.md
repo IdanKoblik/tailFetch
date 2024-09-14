@@ -2,7 +2,7 @@
 > A very simple node server to fetch tailscale user profile 
 >
 
-### Installation
+## Installation
 
 Clone the repo
 ```git
@@ -20,5 +20,13 @@ Run the app
 node .
 ```
 
-### Enjoy
+## API Reference
+
+#### Add node to the API
+
+```http
+GET /whois/:addr/[port]
+```
+
+## Enjoy
 
