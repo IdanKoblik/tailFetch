@@ -25,6 +25,9 @@ node .
 #### Add node to the API
 
 ```http
+Content-Type: application/json
+socketPath: /path/to/socket
+
 GET /whois/:addr/[port]
 ```
 
