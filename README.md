@@ -22,7 +22,7 @@ node .
 
 ## API Reference
 
-#### Add node to the API
+#### Get user profile by ip
 
 ```http
 Content-Type: application/json
