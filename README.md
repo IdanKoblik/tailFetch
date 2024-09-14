@@ -1,2 +1,24 @@
 # tailFetch
-A very simple node server to fetch tailscale user profile 
+> A very simple node server to fetch tailscale user profile 
+>
+
+### Installation
+
+Clone the repo
+```git
+git clone https://github.com/IdanKoblik/tailFetch.git
+cd tailFetch/
+```
+
+Install npm packages
+```git
+npm install
+```
+
+Run the app
+```
+node .
+```
+
+### Enjoy
+
