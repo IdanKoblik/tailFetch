@@ -30,6 +30,3 @@ socketPath: /path/to/socket
 
 GET /whois/:addr/[port]
 ```
-
-## Enjoy
-
